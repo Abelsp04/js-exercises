@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://cc3ca4e5-9a13-4dba-a039-a085acf3b11e.ws-us02.gitpod.io",
+    "address": "https://cdbf8e40-fe3f-4461-ba1a-554d9628f6fb.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -134,7 +134,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
@@ -145,7 +145,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
@@ -156,7 +156,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",
