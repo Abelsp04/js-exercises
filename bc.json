@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://cdbf8e40-fe3f-4461-ba1a-554d9628f6fb.ws-us02.gitpod.io",
+    "address": "https://da51add2-22a3-41c9-8541-60819d592034.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -167,7 +167,7 @@
         {
             "slug": "13-How-much-the-wedding-costs",
             "title": "13-How-much-the-wedding-costs",
-            "done": false,
+            "done": true,
             "path": "exercises/13-How-much-the-wedding-costs",
             "translations": [
                 "es",
