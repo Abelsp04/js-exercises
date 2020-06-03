@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://da51add2-22a3-41c9-8541-60819d592034.ws-us02.gitpod.io",
+    "address": "https://f1a52eac-5968-4726-98f4-1932dc183264.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -200,7 +200,7 @@
         {
             "slug": "16-Rand-from-one-to-six",
             "title": "16-Rand-from-one-to-six",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Rand-from-one-to-six",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",
