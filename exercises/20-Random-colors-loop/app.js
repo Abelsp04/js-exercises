@@ -13,8 +13,16 @@ function getColor(colorNumber=0)
 
 function getAllStudentColors(){
 	
-	//your loop here
-	var exampleColor = getColor(1);
+    //your loop here
+    var student=[];
+    var exampleColor = getColor();
+    
+    for(i=1;i<11;i++)
+    student.push("Student"+ i)
+        console.log(student)
+    
+    return
+    
 }
 
 //call the function below with the number of students in the class and print on the console
