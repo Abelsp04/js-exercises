@@ -15,16 +15,19 @@ function getAllStudentColors(){
 	
     //your loop here
     var student=[];
-    var exampleColor = getColor();
+    var exampleColor = getColor(Math.floor(Math.random()*4));
+    var mix;
+    for(i=0;i<11;i++){
+       mix+= student.push(exampleColor)
+        
+    }
+    return student
+       }
+
     
-    for(i=1;i<11;i++)
-    student.push("Student"+ i)
-        console.log(student)
     
-    return
-    
-}
+
 
 //call the function below with the number of students in the class and print on the console
-getAllStudentColors();
+console.log(getAllStudentColors());
 

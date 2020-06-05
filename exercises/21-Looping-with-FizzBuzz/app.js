@@ -1,5 +1,8 @@
 function fizzBuzz() {  
-	// Your code here
+    // Your code here
+    for (var i=1;i<=10;i++){
+        if (3*i){console.log("FIZZ")}
+    }
 }
 
-fizzBuzz();
+console.log(fizzBuzz());
