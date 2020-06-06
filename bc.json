@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ee4999cb-8883-4204-a36c-2a0668821187.ws-us02.gitpod.io",
+    "address": "https://c8c462fd-9d10-43ff-a176-709ab0c788f4.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -178,7 +178,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
@@ -244,7 +244,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
