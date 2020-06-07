@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c8c462fd-9d10-43ff-a176-709ab0c788f4.ws-us02.gitpod.io",
+    "address": "https://a2aed4a5-3459-470c-9c86-7f5fdcf28515.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -266,7 +266,7 @@
         {
             "slug": "22-Russian-Roulette",
             "title": "22-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Russian-Roulette",
             "translations": [
                 "es",
